@@ -18,7 +18,7 @@ class ACT1:
 
         x = 50
         y = 50
-        speed = 10
+        speed = 5
 
         pygame.display.flip()
         clock = pygame.time.Clock()
